@@ -407,6 +407,7 @@
 
   UefiPayloadPkg/BlSupportPei/BlSupportPei.inf
   MdeModulePkg/Core/DxeIplPeim/DxeIpl.inf
+  UefiPayloadPkg/NullVariable/NullVariablePei.inf
 
 [Components.IA32]
   #
